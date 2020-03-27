@@ -38,6 +38,9 @@ export default {
         region: 'JP',
         resolution: 'provinces',
         displayMode: 'regions',
+        backgroundColor: '#232A3C',
+        datalessRegionColor: '#6E707B',
+        defaultColor: '#333844'
       }
     };
   }
